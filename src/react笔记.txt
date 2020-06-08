@@ -1,0 +1,3 @@
+this.setState() 可以重渲染锚定（包括用props传输）到this.state的所有控件
+
+使用函数组件时，() => this.props.onClick() 变成 props.onClick 
